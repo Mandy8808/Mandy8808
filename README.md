@@ -1,38 +1,32 @@
-Hi there! I'm a Computational Physicist with a strong interest in Scientific Computing, Machine Learning, Data Science, and Quantitative Research. I enjoy tackling complex problems by leveraging mathematical modeling, numerical methods, and advanced computational techniques.
+Hi there
+
+**Computational Physics | Scientific Computing | AI for Science | Machine Learning | Quantitative Research**
+
+I’m a **Computational Physicist** passionate about solving complex problems through mathematics, numerical methods, scientific computing, and data-driven approaches.
+
+My work sits at the intersection of **Computational Physics, Scientific Computing, Machine Learning, and Quantitative Modeling**.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Computational%20Physics-Research-blue" />
+  <img src="https://img.shields.io/badge/Scientific%20Computing-Advanced-purple" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Active-orange" />
   <img src="https://img.shields.io/badge/Data%20Science-Active-success" />
-  <img src="https://img.shields.io/badge/Scientific%20Computing-Advanced-purple" />
   <img src="https://img.shields.io/badge/Quantitative%20Research-Interested-red" />
 </p>
 
 ___
 
-> About Me
+> What I Do
 
-I’m a Computational Physicist passionate about solving complex problems through mathematics, numerical methods, scientific computing, and programming.
+Develop numerical methods for complex physical systems:
 
-My background is rooted in:
+- Build scientific computing tools and numerical solvers.
 
-* Numerical methods
-* Scientific computing
-* Computational modeling
-* Differential equations
-* Spectral methods
-* Stability analysis
-* Large-scale numerical simulations
-* High-performance computing
+- Apply machine learning and statistical methods to scientific problems.
 
-Currently, I am expanding my expertise toward:
+- Explore AI techniques for modeling, prediction, and discovery.
 
-* Machine Learning
-* Artificial Intelligence
-* Data Science
-* Quantitative Research
-* Scientific Software Engineering
-* Scientific Machine Learning
+- Interested in quantitative research and computational finance.
 
 I enjoy combining mathematics, computation, and data-driven approaches to understand and model complex systems.
 
