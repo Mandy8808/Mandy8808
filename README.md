@@ -1,4 +1,4 @@
-Hi there
+# Hi there
 
 I’m a **Computational Physicist** passionate about solving complex problems through mathematics, numerical methods, scientific computing, and data-driven approaches.
 
@@ -15,7 +15,7 @@ My work sits at the intersection of **Computational Physics, Scientific Computin
 
 ___
 
-**What I do:**
+## What I do:
 
 Develop numerical methods for complex physical systems:
 
