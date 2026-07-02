@@ -71,14 +71,14 @@ ___
 
 <table style="border: 0.1px solid white;">
 <tr style="border: 0.1px solid white;">
-<td valign="top" width="50%" style="border: 0.1px solid white;">
+<td valign="top" width="50%" height="100%" style="border: 0.1px solid white;">
 
 - Deep Learning
 - Large Language Models
 - MLOps
 
 </td>
-<td valign="top" width="75%" style="border: 0.1px solid black;">
+<td valign="top" width="75%" height="100%" style="border: 0.1px solid white;">
 
 - Advanced Statistical Learning
 - Modern ML Pipelines
