@@ -8,7 +8,7 @@ Hi there! I'm a Computational Physicist with a strong interest in Scientific Com
   <img src="https://img.shields.io/badge/Quantitative%20Research-Interested-red" />
 </p>
 
-⸻
+___
 
 > About Me
 
@@ -36,7 +36,7 @@ Currently, I am expanding my expertise toward:
 
 I enjoy combining mathematics, computation, and data-driven approaches to understand and model complex systems.
 
-⸻
+___
 
 > Technical Stack
 
@@ -48,7 +48,7 @@ Machine Learning & Data Science
 
 Development Tools
 
-⸻
+___
 
 > Research Interests
 
@@ -63,8 +63,6 @@ Development Tools
 * Numerical Methods
 * Computational Physics
 
-⸻
-
 > Current Focus
 
 * Machine Learning for scientific applications
@@ -74,7 +72,7 @@ Development Tools
 * Quantitative methods for complex systems
 * Large-scale numerical simulations
 
-⸻
+___
 
 > Featured Projects
 
@@ -86,7 +84,7 @@ Development Tools
 
 - Numerical simulations in gravitational physics
 
-⸻
+___
 
 > Currently Learning
 
@@ -97,8 +95,7 @@ Development Tools
 * Modern ML pipelines
 * Scientific AI
 
-⸻
-
+___
 > Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/armandoaroque)
@@ -106,7 +103,7 @@ Development Tools
 
 Email: available upon request
 
-⸻
+<hr style="border:.2px solid gray">
 
 <p align="center">
   <i>"Using mathematics, computation, and AI to understand and model complex systems."</i>
