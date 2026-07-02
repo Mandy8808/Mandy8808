@@ -78,7 +78,7 @@ ___
 - MLOps
 
 </td>
-<td valign="top" width="75%" style="border: 0.1px solid white;">
+<td valign="top" width="75%" style="border: 0.1px solid black;">
 
 - Advanced Statistical Learning
 - Modern ML Pipelines
