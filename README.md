@@ -89,7 +89,8 @@ ___
 </table>
 
 ___
-> [!Connect with me]
+
+### Connect with me:
 
 [LinkedIn](https://www.linkedin.com/in/armandoaroque), [Inspirehep](https://www.inspirehep.net/authors/1284016?ui-citation-summary=true), Email: available upon request
 
