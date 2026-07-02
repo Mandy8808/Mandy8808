@@ -1,7 +1,5 @@
 Hi there
 
-**Computational Physics | Scientific Computing | AI for Science | Machine Learning | Quantitative Research**
-
 I’m a **Computational Physicist** passionate about solving complex problems through mathematics, numerical methods, scientific computing, and data-driven approaches.
 
 My work sits at the intersection of **Computational Physics, Scientific Computing, Machine Learning, and Quantitative Modeling**.
@@ -9,6 +7,7 @@ My work sits at the intersection of **Computational Physics, Scientific Computin
 <p align="center">
   <img src="https://img.shields.io/badge/Computational%20Physics-Research-blue" />
   <img src="https://img.shields.io/badge/Scientific%20Computing-Advanced-purple" />
+  <img src="https://img.shields.io/badge/AI%20for%20Science-Active-green" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Active-orange" />
   <img src="https://img.shields.io/badge/Data%20Science-Active-success" />
   <img src="https://img.shields.io/badge/Quantitative%20Research-Interested-red" />
@@ -16,7 +15,7 @@ My work sits at the intersection of **Computational Physics, Scientific Computin
 
 ___
 
-> What I Do
+**What I do:**
 
 Develop numerical methods for complex physical systems:
 
@@ -30,9 +29,7 @@ Develop numerical methods for complex physical systems:
 
 I enjoy combining mathematics, computation, and data-driven approaches to understand and model complex systems.
 
-___
-
-> Technical Stack
+**Technical stack:**
 
 Programming Languages
 
@@ -42,8 +39,9 @@ Machine Learning & Data Science
 
 Development Tools
 
+___
 
-> Research Interests
+**Research Interests**
 
 * Machine Learning
 * Artificial Intelligence
@@ -56,7 +54,7 @@ Development Tools
 * Numerical Methods
 * Computational Physics
 
-> Current Focus
+**Current Focus**
 
 * Machine Learning for scientific applications
 * Physics-informed machine learning
@@ -65,7 +63,9 @@ Development Tools
 * Quantitative methods for complex systems
 * Large-scale numerical simulations
 
-> Featured Projects
+___
+
+**Featured Projects**
 
 - Scientific computing tools and numerical solvers
 
@@ -75,7 +75,7 @@ Development Tools
 
 - Numerical simulations in gravitational physics
 
-> Currently Learning
+**Currently Learning**
 
 * Deep Learning
 * Large Language Models
