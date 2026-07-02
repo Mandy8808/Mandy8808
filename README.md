@@ -69,16 +69,16 @@ ___
 
 ## Currently Learning
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<table style="border: none;">
+<tr style="border: none;">
+<td valign="top" width="50%" style="border: none;">
 
 - Deep Learning
 - Large Language Models
 - MLOps
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" style="border: none;">
 
 - Advanced Statistical Learning
 - Modern ML Pipelines
