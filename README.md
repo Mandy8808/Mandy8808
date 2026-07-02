@@ -29,15 +29,7 @@ Develop numerical methods for complex physical systems:
 
 I enjoy combining mathematics, computation, and data-driven approaches to understand and model complex systems.
 
-**Technical stack:**
-
-Programming Languages
-
-Scientific Computing & HPC
-
-Machine Learning & Data Science
-
-Development Tools
+**Technical stack:** Programming Languages/Scientific Computing & HPC/Machine Learning & Data Science/Development Tools
 
 ___
 
