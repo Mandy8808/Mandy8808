@@ -8,6 +8,7 @@ Hi there! I'm a Computational Physicist with a strong interest in Scientific Com
   <img src="https://img.shields.io/badge/Quantitative%20Research-Interested-red" />
 </p>
 
+<hr style="border:.2px solid gray">
 ___
 
 > About Me
@@ -93,13 +94,7 @@ Development Tools
 ___
 > [!Connect with me]
 
-[LinkedIn](https://www.linkedin.com/in/armandoaroque)
-
-[Inspirehep](https://www.inspirehep.net/authors/1284016?ui-citation-summary=true)
-
-Email: available upon request
-
-<hr style="border:.2px solid gray">
+[LinkedIn](https://www.linkedin.com/in/armandoaroque), [Inspirehep](https://www.inspirehep.net/authors/1284016?ui-citation-summary=true), Email: available upon request
 
 <p align="center">
   <i>"Using mathematics, computation, and AI to understand and model complex systems."</i>
