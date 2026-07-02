@@ -69,7 +69,7 @@ ___
 
 ## Currently Learning
 
-<table style="border: 0.1px solid white;">
+<table style="border: 0.01px solid white;">
 <tr style="border: 0.1px solid white;">
 <td valign="top" width="50%" height="50%" style="border: 0.1px solid white;">
 
