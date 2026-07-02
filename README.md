@@ -48,7 +48,6 @@ Machine Learning & Data Science
 
 Development Tools
 
-___
 
 > Research Interests
 
@@ -72,8 +71,6 @@ ___
 * Quantitative methods for complex systems
 * Large-scale numerical simulations
 
-___
-
 > Featured Projects
 
 - Scientific computing tools and numerical solvers
@@ -83,8 +80,6 @@ ___
 - Spectral methods for Schrödinger-Poisson systems
 
 - Numerical simulations in gravitational physics
-
-___
 
 > Currently Learning
 
@@ -96,9 +91,10 @@ ___
 * Scientific AI
 
 ___
-> Connect with me
+> [!Connect with me]
 
 [LinkedIn](https://www.linkedin.com/in/armandoaroque)
+
 [Inspirehep](https://www.inspirehep.net/authors/1284016?ui-citation-summary=true)
 
 Email: available upon request
