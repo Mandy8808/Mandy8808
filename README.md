@@ -13,8 +13,6 @@ My work sits at the intersection of **Computational Physics, Scientific Computin
   <img src="https://img.shields.io/badge/Quantitative%20Research-Interested-red" />
 </p>
 
-___
-
 ## What I do:
 
 Develop numerical methods for complex physical systems:
