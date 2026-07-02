@@ -8,7 +8,6 @@ Hi there! I'm a Computational Physicist with a strong interest in Scientific Com
   <img src="https://img.shields.io/badge/Quantitative%20Research-Interested-red" />
 </p>
 
-<hr style="border:.2px solid gray">
 ___
 
 > About Me
