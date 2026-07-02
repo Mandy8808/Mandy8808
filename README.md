@@ -67,14 +67,26 @@ ___
 
 - Numerical simulations in gravitational physics
 
-**Currently Learning**
+## Currently Learning
 
-* Deep Learning
-* Large Language Models
-* MLOps
-* Advanced statistical learning
-* Modern ML pipelines
-* Scientific AI
+<table>
+<tr>
+<td valign="top" width="50%">
+
+- Deep Learning
+- Large Language Models
+- MLOps
+
+</td>
+<td valign="top" width="50%">
+
+- Advanced Statistical Learning
+- Modern ML Pipelines
+- Scientific AI
+
+</td>
+</tr>
+</table>
 
 ___
 > [!Connect with me]
